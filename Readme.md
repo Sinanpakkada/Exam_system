@@ -9,11 +9,6 @@ This project is a simple online quiz application developed using Java Swing. It 
 - **Bookmark Button**: Bookmark the current question to revisit it later.
 - **Result Button**: View the final score after completing the quiz.
 
-## Screenshots
-
-![Screenshot](screenshot.png)  
-*(Replace `screenshot.png` with an actual screenshot of the application)*
-
 ## Requirements
 
 - Java Development Kit (JDK) 8 or higher
@@ -66,13 +61,9 @@ To understand how the application works, here's a brief description of its behav
 
 Feel free to fork the repository and submit pull requests. Contributions to improve the application or add new features are welcome.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Java Swing for providing the GUI framework.
-- [Your Inspiration](https://example.com) for the original concept.
+
 
 ---
