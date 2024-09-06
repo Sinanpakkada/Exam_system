@@ -1,7 +1,3 @@
-Certainly! Here is a README for your Java-based online test application that you can use on GitHub:
-
----
-
 # OnlineTest - Java Quiz Application
 
 This project is a simple online quiz application developed using Java Swing. It features a basic graphical user interface (GUI) to present multiple-choice questions and track user responses. The application also includes functionality for bookmarking questions and displaying the final result.
